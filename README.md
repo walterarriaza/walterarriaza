@@ -1,5 +1,5 @@
 
-<h1 align="right" >Andrei Arriaza</h1>
+<h1 align="right" color:"#675645" >Andrei Arriaza</h1>
 
 
 
